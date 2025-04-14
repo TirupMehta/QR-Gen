@@ -4,11 +4,11 @@ A professional, minimal, and customizable QR code generator built using Python. 
 
 ## Features
 
-- ✅ Generate QR codes from any text or URL
-- 🧩 High error correction level (H) for enhanced durability
-- 🎨 Customizable size, border, and color scheme
-- 💾 Output saved as a `.png` image
-- 🔧 Easy to extend for additional functionality (like logo overlays)
+- Generate QR codes from any text or URL
+- High error correction level (H) for enhanced durability
+- Customizable size, border, and color scheme
+- Output saved as a `.png` image
+- Easy to extend for additional functionality (like logo overlays)
 
 ## Requirements
 
