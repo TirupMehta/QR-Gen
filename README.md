@@ -22,7 +22,7 @@ Install the dependencies with:
 pip install qrcode pillow
 ```
 
-## 🛠️ Usage Guide
+## Usage Guide
 
 1. Clone or download this repository.
 2. Open the script and edit the `data` variable with your desired content.
